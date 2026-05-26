@@ -1,0 +1,9 @@
+﻿{
+  "name": "com.umitcanyucesoy.gridbuilder",
+  "version": "1.0.0",
+  "displayName": "Grid Builder",
+  "description": "Reusable grid system for Unity. Rectangle and hexagon grids on XZ/XY planes, with an editor tool to build grids into the scene.",
+  "author": {
+    "name": "Ümit Can Yücesoy"
+  }
+}

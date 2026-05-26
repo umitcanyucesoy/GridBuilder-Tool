@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab3f8b746e6c459dbcea39c882e22d5e, type: 3}
+  m_Name: RectangleGridDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::Plugin.GridBuilder.Data.RectangleDefinition
+  width: 6
+  height: 6
+  cellSize: 1.1
+  plane: 1
+  tilePrefab: {fileID: 6342003800483625947, guid: 34dc1f9c8c1c0164a892b89512df8dee, type: 3}
